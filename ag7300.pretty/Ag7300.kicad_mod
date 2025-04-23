@@ -1,0 +1,178 @@
+(footprint "Ag7300"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "120W DC/DC Converter, 18V-36V input, 48V-57V output voltage")
+	(tags "silvertel poe")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "790ad8fd-ce2a-4730-aee8-7f9e81eb444b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "Ag7300"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "10c48580-3b3d-4c42-8f9f-78f6ba8a265a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://silvertel.com/images/datasheets/Ag7300-datasheet-120W-55V-boost-converter-DCDC-module.pdf&ved=2ahUKEwiCz-alo9OMAxXzWEEAHUOvJZ8QFnoECBgQAQ&usg=AOvVaw1AAlhASLR46cg9laUC453v"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e917ab9-d797-444d-8894-052ccccb9ddd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "120W DC/DC Converter, 18V-36V input, 48V-57V output voltage"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93e651ef-8c44-4edf-b2bf-f7cc53f88145")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -19.99 -17.49)
+		(end 19.99 17.49)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "61ad37e8-08aa-46c6-b04a-f1da918a96b1")
+	)
+	(fp_rect
+		(start -21 -18)
+		(end 21 18)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "108dd5b9-395a-4764-8d70-0dcdce26fe5b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "775e299e-ba4b-4c3d-85f2-74a125c6ae9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -18.2 -15.24)
+		(size 5 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "ffdf291b-0141-4ff3-aaa7-364cfdad3c20")
+	)
+	(pad "2" smd rect
+		(at -18.2 -12.7)
+		(size 5 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "2a21a64e-ee6b-4208-9061-c3728027cea1")
+	)
+	(pad "3" smd rect
+		(at -18.2 12.7)
+		(size 5 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "703b8483-7729-4e63-8458-1a70533d9b4c")
+	)
+	(pad "4" smd rect
+		(at -18.2 15.24)
+		(size 5 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "542b2169-13fd-4757-92b9-9928fb3755e0")
+	)
+	(pad "5" smd rect
+		(at 18.2 15.24)
+		(size 5 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "a9920448-dcb1-490f-b3eb-004219729a97")
+	)
+	(pad "6" smd rect
+		(at 18.2 -12.7)
+		(size 5 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "8d2037a3-7d14-4c96-a7e6-1bf5a02396fe")
+	)
+	(pad "7" smd rect
+		(at 18.2 -15.24)
+		(size 5 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "016dbee1-3598-41b9-a016-c611a59bc724")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu")
+		(uuid "baa7c6de-f310-4e8f-ba6f-c4138c0f81bf")
+		(name "Copper Keep Out")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 0.32 -19.5) (xy 3.32 -19.5) (xy 3.32 -10.16) (xy 7.2 -6.27) (xy 7.2 9.9) (xy 15.06 9.9) (xy 15.06 19.5)
+				(xy 0.32 19.5)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
