@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ag7300")(type "KiCad")(uri "${KIPRJMOD}/ag7300.pretty")(options "")(descr ""))
+)
