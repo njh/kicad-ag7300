@@ -3997,7 +3997,7 @@
 			(uuid "3d9f108a-eb2d-485f-a727-9dff13176d91")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "C8")
 					(unit 1)
@@ -4485,7 +4485,7 @@
 			(uuid "8ed3a7e4-895a-46bc-8b9e-bd14afb86ddb")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "J3")
 					(unit 1)
@@ -4625,7 +4625,7 @@
 			(uuid "284fcfc8-397a-412f-bfcf-4402ce6dafb5")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "C6")
 					(unit 1)
@@ -4764,7 +4764,7 @@
 			(uuid "ffd84fff-372e-4a0c-8ba0-70f1404c8de6")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "C9")
 					(unit 1)
@@ -4980,7 +4980,7 @@
 			(uuid "4b5b9626-aab5-43bd-ab62-f373d66cb1f4")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR05")
 					(unit 1)
@@ -5050,7 +5050,7 @@
 			(uuid "910bfdc7-b521-46b3-843a-c8b188438ace")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "R2")
 					(unit 1)
@@ -5115,7 +5115,7 @@
 			(uuid "754e77d0-1396-4469-a61a-7440b506b9bb")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR07")
 					(unit 1)
@@ -5180,7 +5180,7 @@
 			(uuid "0a8cac6a-6309-4e6f-b295-adda024702c3")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR04")
 					(unit 1)
@@ -5250,7 +5250,7 @@
 			(uuid "e16345d5-78de-4f95-9c8c-240d454c6b44")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "C4")
 					(unit 1)
@@ -5320,7 +5320,7 @@
 			(uuid "5d47611b-75c7-4a7d-b2cd-df17a439ad72")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "C3")
 					(unit 1)
@@ -5385,7 +5385,7 @@
 			(uuid "2a08a5a5-081e-4dc0-bfba-d2c9383bc71c")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR09")
 					(unit 1)
@@ -5451,7 +5451,7 @@
 			(uuid "3e209185-4963-4206-a735-99b05731d8b5")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR011")
 					(unit 1)
@@ -5590,7 +5590,7 @@
 			(uuid "9d3637de-318a-4c65-844d-d23f090fe22f")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR01")
 					(unit 1)
@@ -5994,7 +5994,7 @@
 			(uuid "21251276-1d9a-4acf-afd2-9a425cdc46c8")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#FLG02")
 					(unit 1)
@@ -6059,7 +6059,7 @@
 			(uuid "72784f53-6666-4839-b20c-6ca87c2e2cda")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR06")
 					(unit 1)
@@ -6264,7 +6264,7 @@
 			(uuid "71e02b5f-ef07-4e07-be31-fbcd88e197fd")
 		)
 		(instances
-			(project "ag7300-breakout"
+			(project "ag7300"
 				(path "/c65f227f-2caa-49c7-bb2a-6a4147e824be"
 					(reference "#PWR010")
 					(unit 1)
